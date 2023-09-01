@@ -1,4 +1,4 @@
-import postRoutes from './routes/index.js';
+import postRoutes from './src/routes/index.js';
 import express, { urlencoded } from "express";
 import cors from "cors"
 
